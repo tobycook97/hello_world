@@ -10,3 +10,7 @@ print(" I am now less confused")
 
 for x in ["a","b","c"]:
     print(x)
+
+
+print('ok now we might be getting the hang of this to be fair!!')
+
